@@ -1,0 +1,10 @@
+  [_metadata_:author]:- "The OWASP Foundation"
+  [_metadata_:tags]:- "OWASP"
+  [_metadata_:Product]:- "OWASP CheatSheetSeries"
+  [_metadata_:Category]:- "Technical Notes"
+  [_metadata_:audience]:- "public"
+  [_metadata_:ft:title]:- "OWASP Cheat Sheet Series"
+  [_metadata_:ft:originID]:- "owasp-cheatsheet-en"
+  [_metadata_:ft:lang]:- "en-US"
+  [_metadata_:media_dir]:- "assets"
+
